@@ -7,3 +7,8 @@ change : login feature
 change 2:  logout feature
 
 change:by team  mate 
+
+change: to fix the bug1
+
+change: to fix the bug2
+
