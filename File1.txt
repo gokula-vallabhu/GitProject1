@@ -6,4 +6,6 @@ change : login feature
 
 change 2:  logout feature
 
-change: to fix the bug
+change: to fix the bug1
+
+change:by team  mate 
